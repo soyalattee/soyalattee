@@ -23,3 +23,8 @@
     <p>🫥 Severless</p>
     <p>🚤 Web3</p>
   </div>
+
+<h2>👍 Most used language</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyalattee&layout=compact&theme=merko)
+
