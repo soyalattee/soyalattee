@@ -17,7 +17,7 @@
   </a>
 </div>
   <br/>
- <h2>Interests</h2>
+ <h2>🤩 Interests</h2>
   <div>
     <p>☁️ Cloud computing</p>
     <p>🫥 Severless</p>
