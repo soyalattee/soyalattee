@@ -1,6 +1,6 @@
 ###  FE개발자, 박소연입니다 ✨
 
-:mailbox: contact : uyyu1734@gmail.com
+📫 contact : uyyu1734@gmail.com
   <br/>
   <br/>
 <h2>🌱 Skills</h2>
