@@ -1,6 +1,6 @@
-###  Hi, I`m Soyeon Park, FE Developer ✨
+###  FE개발자, 박소연입니다 ✨
 
-
+:mailbox: contact : uyyu1734@gmail.com
   <br/>
   <br/>
 <h2>:seedling: Skills</h2>
@@ -23,17 +23,3 @@
     <p>:partly_sunny: Severless</p>
     <p>:globe_with_meridians: Web3</p>
   </div>
-<!--
-**soyalattee/soyalattee** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
