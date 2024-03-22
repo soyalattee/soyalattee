@@ -1,26 +1,27 @@
 ###  Hi, I`m Soyeon Park, FE Developer ✨
 
 
-
-<h2>Skills</h2>
-  <h4>Programming</h4>
+  <br/>
+  <br/>
+<h2>:seedling: Skills</h2>
+  <h4>:pencil2: Programming</h4>
 <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,ts,react" />
     </a>
-</div>
+</div>  
 <div>
-      <h4>Others</h4>
+      <h4>:star2: Others</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,photoshop,aws,gcp" />
   </a>
 </div>
-
- <h2>Interest</h2>
+  <br/>
+ <h2>Interests</h2>
   <div>
-    <p>Cloud</p>
-    <p>Severless</p>
-    <p>Web3</p>
+    <p>☁️ Cloud computing</p>
+    <p>:partly_sunny: Severless</p>
+    <p>:globe_with_meridians: Web3</p>
   </div>
 <!--
 **soyalattee/soyalattee** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
