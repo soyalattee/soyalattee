@@ -71,6 +71,4 @@
 
 ## 📚 Projects
 
-### FrontEnd
-
-### BackEnd
+[작업물](https://soyalattee.github.io/soyalattee/)
