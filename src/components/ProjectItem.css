@@ -1,0 +1,90 @@
+.ProjectItem {
+  position: relative;
+  background-color: aquamarine;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 860px;
+  height: 520px;
+}
+.ProjectItem > p {
+  color: #fff;
+  z-index: 1;
+  opacity: 0;
+  font-size: 32px;
+  font-weight: 400;
+}
+.ProjectItem:hover > p {
+  z-index: 1;
+  opacity: 1;
+}
+.ProjectItem:hover > .img-box {
+  filter: brightness(0.4);
+  width: 105%;
+  height: 105%;
+  transition: all 0.5s;
+}
+.gradient-img {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.77) 0%,
+    rgba(0, 0, 0, 0.35) 32%,
+    rgba(0, 0, 0, 0) 49%
+  );
+  pointer-events: none;
+  position: absolute;
+  bottom: 0;
+}
+
+.img-box {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202022;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80%;
+  background-position: 50% 20%;
+}
+.img-box > img {
+  position: absolute;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  transition: all ease 0.4s;
+}
+.bridge {
+  content: url('../../public/bridge.png');
+}
+.intellax {
+  content: url('../../public/intellax.png');
+}
+.lottery {
+  content: url('../../public/lottery.png');
+}
+
+.neowiz {
+  content: url('../../public/neowiz.png');
+}
+.betspider {
+  content: url('../../public/betspider.png');
+}
+.moon {
+  content: url('../../public/moon.png');
+}
+
+.pmang {
+  content: url('../../public/pmang.png');
+}
+.migration {
+  content: url('../../public/migration.png');
+}

@@ -9,7 +9,7 @@ interface IProjectItem {
 }
 
 const projectData: IProjectItem[] = [
-  { imgName: 'intellaX', name: 'IntellaX Wallet' },
+  { imgName: 'intellax', name: 'IntellaX Wallet' },
   { imgName: 'bridge', name: 'Dapp - Bridge' },
   { imgName: 'lottery', name: 'Lottery Game' },
   { imgName: 'neowiz', name: 'Neowiz Site & 채용' },
