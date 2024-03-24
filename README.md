@@ -57,8 +57,20 @@
  </ul>
 </div>
 
-## Experience
+## 💻 Experience
 
-<h2>👍 Most used language</h2>
+- 프로디지털아카데미 | Cloud & Web Full Stack (2024.03 ~ )
+- 네오위즈 | FE-Developr (2020.01 ~ 2023.08)
+- SSAFY | Web Full Stack & 알고리즘 (2019.07 ~ 2019.12)
+- 숙명여자대학교 | 소프트웨어학부 (2014.03 ~ 2019.08)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyalattee&layout=compact&theme=merko)
+## ✒️ Certification
+
+- 정보처리기사 (2019.12)
+- 삼성 SW 역량테스트 A형 (2020.02)
+
+## 📚 Projects
+
+### FrontEnd
+
+### BackEnd
