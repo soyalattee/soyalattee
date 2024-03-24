@@ -4,3 +4,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.header-title {
+  font-size: 42px;
+  font-weight: 600;
+}
