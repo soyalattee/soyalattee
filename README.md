@@ -70,5 +70,88 @@
 - 삼성 SW 역량테스트 A형 (2020.02)
 
 ## 📚 Projects
+<link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet"/>
+    <div class="project-list">
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/intellaX.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/bridge.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/betspider.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/lottery.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/moon.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/neowiz.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/pmang.png" />
+        </div>
+      </div>
+      <div class="item-box">
+        <div class="item">
+          <img alt="" src="./public/migration.png" />
+        </div>
+      </div>
+    </div>
+
+<style>
+    .project-list {
+      display: grid;
+      width: 100%;
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 10px;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-column-gap: 10px;
+      grid-row-gap: 10px;
+      grid-auto-rows: min-content;
+    }
+    .item-box{
+    
+    }
+  .project-list > .item{
+    background-color:#d2d2d2;
+   
+    overflow:hidden;
+    border-radius: 8px 8px 8px 8px;
+  }
+  .project-list > img{
+    object-fit: cover;
+    width: 100%;
+    height:100%;
+  }
+    @media (max-width: 767px) {
+        .project-list {
+            padding: 5px;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .item{
+          width: 100%;
+        }
+    }
+</style>
 
 [작업물](https://soyalattee.github.io/soyalattee/)
+
