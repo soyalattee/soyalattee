@@ -71,6 +71,7 @@
 - 삼성 SW 역량테스트 A형 (2020.02)
 
 ## 📚 Projects
+<div>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet"/>
     <div class="project-list">
       <div class="prjectItem">
@@ -182,5 +183,6 @@
     }
 </style>
 
+</div>
 [작업물](https://soyalattee.github.io/soyalattee/)
 
