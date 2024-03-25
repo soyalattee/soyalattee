@@ -60,10 +60,10 @@
 
 ## 💻 Experience
 
-- 프로디지털아카데미 | Cloud & Web Full Stack (2024.03 ~ )
-- 네오위즈 | FE-Developr (2020.01 ~ 2023.08)
-- SSAFY | Web Full Stack & 알고리즘 (2019.07 ~ 2019.12)
-- 숙명여자대학교 | 소프트웨어학부 (2014.03 ~ 2019.08)
+- 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )
+- 네오위즈 - FE-Developr (2020.01 ~ 2023.08)
+- SSAFY - Web Full Stack & 알고리즘 (2019.07 ~ 2019.12)
+- 숙명여자대학교 - 소프트웨어학부 (2014.03 ~ 2019.08)
 
 ## ✒️ Certification
 
