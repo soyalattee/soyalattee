@@ -72,43 +72,43 @@
 ## 📚 Projects
 <link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet"/>
     <div class="project-list">
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/intellaX.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/bridge.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/betspider.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/lottery.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/moon.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/neowiz.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/pmang.png" />
         </div>
       </div>
-      <div class="item-box">
-        <div class="item">
+      <div class="prjectItem">
+        <div class="img-box">
           <img alt="" src="./public/migration.png" />
         </div>
       </div>
@@ -128,8 +128,36 @@
       grid-row-gap: 10px;
       grid-auto-rows: min-content;
     }
-    .item-box{
-    
+    .prjectItem{
+      align-items: center;
+      background-color: #7fffd4;
+      display: flex;
+      flex-direction: column;
+      height: 120px;
+      justify-content: center;
+      max-width: 860px;
+      overflow: hidden;
+      position: relative;
+      text-decoration-line: none;
+    }
+    .img-box{
+      background-repeat: no-repeat;
+      position: absolute;
+      width:100%;
+      height: 100%;
+    }
+    .ProjectItem:hover > .img-box {
+      filter: brightness(0.2);
+      width: 105%;
+      height: 105%;
+      transition: all 0.5s;
+    }
+
+    .img-box > img{
+      width:100%;
+      height: 100%;
+      object-fit: cover;
+      transition: all .4s ease;
     }
   .project-list > .item{
     background-color:#d2d2d2;
