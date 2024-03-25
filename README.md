@@ -71,5 +71,6 @@
 - 삼성 SW 역량테스트 A형 (2020.02)
 
 ## 📚 Projects
-[작업물](https://soyalattee.github.io/portfolio/)
+<a href="https://soyalattee.github.io/portfolio/" target="_blank">작업물</a>
+
 
