@@ -1,4 +1,5 @@
-# FE 개발자, 박소연입니다
+![header](https://capsule-render.vercel.app/api?type=wave&color=e0ffff&height=300&section=header&text=FE%20개발자,%20박소연입니다&fontSize=50)
+<!-- # FE 개발자, 박소연입니다 -->
 
 안녕하세요. 풀스택 개발자로 성장중인 FE개발자 박소연입니다.  
 여러 종류의 반응형 웹 사이트, 모바일 app 내 Web View UI, 웹 게임 등을 개발, 배포, 운영 경험이 있습니다.  
