@@ -72,117 +72,48 @@
 
 ## 📚 Projects
 <div>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet"/>
     <div class="project-list">
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/intellaX.png" />
+          <img alt="" src="./public/intellaX.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/bridge.png" />
+          <img alt="" src="./public/bridge.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/betspider.png" />
+          <img alt="" src="./public/betspider.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/lottery.png" />
+          <img alt="" src="./public/lottery.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/moon.png" />
+          <img alt="" src="./public/moon.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/neowiz.png" />
+          <img alt="" src="./public/neowiz.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/pmang.png" />
+          <img alt="" src="./public/pmang.png" width="180" height="120"/>
         </div>
       </div>
       <div class="prjectItem">
         <div class="img-box">
-          <img alt="" src="./public/migration.png" />
+          <img alt="" src="./public/migration.png" width="180" height="120"/>
         </div>
       </div>
     </div>
-
-<style>
-    .project-list {
-      display: grid;
-      width: 100%;
-      box-sizing: border-box;
-      min-width: 200px;
-      max-width: 980px;
-      margin: 0 auto;
-      padding: 10px;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      grid-column-gap: 10px;
-      grid-row-gap: 10px;
-      grid-auto-rows: min-content;
-    }
-    .prjectItem{
-      align-items: center;
-      background-color: #7fffd4;
-      display: flex;
-      flex-direction: column;
-      height: 120px;
-      justify-content: center;
-      max-width: 860px;
-      overflow: hidden;
-      position: relative;
-      text-decoration-line: none;
-    }
-    .img-box{
-      background-repeat: no-repeat;
-      position: absolute;
-      width:100%;
-      height: 100%;
-    }
-    .ProjectItem:hover > .img-box {
-      filter: brightness(0.2);
-      width: 105%;
-      height: 105%;
-      transition: all 0.5s;
-    }
-
-    .img-box > img{
-      width:100%;
-      height: 100%;
-      object-fit: cover;
-      transition: all .4s ease;
-    }
-  .project-list > .item{
-    background-color:#d2d2d2;
-   
-    overflow:hidden;
-    border-radius: 8px 8px 8px 8px;
-  }
-  .project-list > img{
-    object-fit: cover;
-    width: 100%;
-    height:100%;
-  }
-    @media (max-width: 767px) {
-        .project-list {
-            padding: 5px;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-        }
-        .item{
-          width: 100%;
-        }
-    }
-</style>
-
 </div>
 [작업물](https://soyalattee.github.io/soyalattee/)
 
