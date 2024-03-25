@@ -27,3 +27,17 @@ body {
   grid-row-gap: 20px;
   grid-auto-rows: min-content;
 }
+@media screen and (max-width: 768px) {
+  .project-list {
+    padding-right: 3.3vw;
+    grid-template-columns: repeat(1, minmax(0,1fr));
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .project-list {
+    padding-right: 3.3vw;
+    grid-template-columns: repeat(1, minmax(0,1fr));
+  }
+}
