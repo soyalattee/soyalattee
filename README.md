@@ -59,16 +59,16 @@
 </div>
 
 ## 💻 Experience
-
-- 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )
+- 신한투자증권 - 인턴 (2024.09 ~ 2024.10)
+- 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ 2024.09)
 - 네오위즈 - FE-Developr (2020.01 ~ 2023.08)
 - SSAFY - Web Full Stack & 알고리즘 (2019.07 ~ 2019.12)
 - 숙명여자대학교 - 소프트웨어학부 (2014.03 ~ 2019.08)
 
 ## ✒️ Certification
-
 - 정보처리기사 (2019.12)
 - 삼성 SW 역량테스트 A형 (2020.02)
+- 증권투자대행인 (2024.09.12)
 
 ## 📚 Projects
 <a href="https://soyalattee.github.io/portfolio/" target="_blank">작업물</a>
