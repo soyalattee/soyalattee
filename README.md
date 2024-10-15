@@ -75,7 +75,7 @@
 
 <a href="https://github.com/soyalattee">
   
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=soyalattee&theme=grassland&userFetchType=all" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=soyalattee&theme=dessert&userFetchType=all" width="600px" />
 </a>
 
 
