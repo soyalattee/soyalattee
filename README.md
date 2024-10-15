@@ -68,7 +68,7 @@
 ## ✒️ Certification
 - 정보처리기사 (2019.12)
 - 삼성 SW 역량테스트 A형 (2020.02)
-- 증권투자대행인 (2024.09.12)
+- 증권투자권유대행인 (2024.09.12)
 
 ## 📚 Projects
 <a href="https://soyalattee.github.io/portfolio/" target="_blank">작업물</a>
