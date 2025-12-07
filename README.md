@@ -73,9 +73,5 @@
 ## 📚 Projects
 <a href="https://soyalattee.github.io/portfolio/" target="_blank">작업물</a>
 
-<a href="https://github.com/soyalattee">
-  
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=soyalattee&theme=dessert&userFetchType=all" width="600px" />
-</a>
 
 
